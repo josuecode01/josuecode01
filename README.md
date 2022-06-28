@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Yo soy josue</h1>
 <h3 align="center">soy un frontend apasionado de la ciudad de mexico</h3>
 
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ josue-bonilla-3b0a54241](www.linkedin.com/in/ josue-bonilla-3b0a54241)
+
 - 💬 Ask me about **html, css, javascript, angular**
 
 - 📫 How to reach me **j.bonilla.vii@gmail.com**
